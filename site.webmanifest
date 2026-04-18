@@ -1,0 +1,16 @@
+{
+  "name": "이응한의원",
+  "short_name": "이응한의원",
+  "description": "세종시 피부 건강 특화 이응한의원. 정안침, 매선리프팅, 한의 피부·탈모·통증·면역 관리.",
+  "lang": "ko",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#FAF6F1",
+  "theme_color": "#FAF6F1",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
