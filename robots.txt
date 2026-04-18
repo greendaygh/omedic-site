@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /
 Disallow: /signage
+Disallow: /news
 
 Sitemap: https://omedic.co.kr/sitemap-index.xml
